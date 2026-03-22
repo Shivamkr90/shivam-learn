@@ -2,4 +2,4 @@
 
 This is my first git repository
 <br>
-Author - Shivam Kumar
+Author - Shivam Kumar Shroff
